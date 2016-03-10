@@ -1,2 +1,2 @@
 # SoundCloud-Bot
-Working C# SoundCloud BOT
+Working C# SoundCloud Bot
